@@ -1,1 +1,1 @@
-# py-project1
+This Python program is a classic implementation of the **Hangman** game. It allows the user to specify the number of attempts (body parts) and input a list of words. The game randomly selects one word from the list and displays it as dashes, representing hidden letters. The player guesses letters one at a time, and correct guesses reveal the letters in the word, while incorrect guesses reduce the remaining attempts. The game continues until the player guesses the entire word or runs out of attempts, providing a fun and interactive word-guessing experience.
